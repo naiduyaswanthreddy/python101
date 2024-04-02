@@ -1,8 +1,8 @@
 # this file explains variables in python
 
-print ('My Blog is AIFOSS')
+print ('yashuu')
 
-print ('2+3')
+print ('855')
 
 # + addition
 # - Subtraction
